@@ -18,3 +18,6 @@ A minimal text editor in C
       ~sudo apt update
       ~sudo apt install make
       ~make --version
+
+##A sample image
+![Sample Image](editor1.png)
